@@ -1,0 +1,24 @@
+/* Typography */
+
+h1, h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+p, a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+p {
+  font-size: 14px;
+  color:darkgray;
+  margin-bottom: 30px;
+  
+  
+}
+
+
+
+
+/* Layout */
+
